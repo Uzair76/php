@@ -22,7 +22,7 @@ class Mouse implements Animal {
     echo " Squeak ";
   }
 }
-
+        
 // Create a list of animals
 $cat = new Cat();
 $dog = new Dog();
